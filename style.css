@@ -1,0 +1,23 @@
+
+h1,h2{
+    font-family: "Lato-Regular", sans-serif;
+    color: white;
+    text-align: center;
+}
+h3{
+    font-family: "Raleway", sans-serif;
+    
+}
+header {
+    background-color: #782122;
+}
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 50px 2px hsl(33, 43%, 75%);
+}
+        
+.parent{
+    text-align: center;
+}
